@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31083943953",
+    "project_id": "pay-flow-7901f",
+    "storage_bucket": "pay-flow-7901f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31083943953:android:096d2c78293500a1e0b9b0",
+        "android_client_info": {
+          "package_name": "com.example.pay_flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31083943953-2iotcqntu0s10hmfn0bjfug754pnd2mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOVNKGQq8SQWAlfdJ56qbgHxAKHqzFUPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31083943953-2iotcqntu0s10hmfn0bjfug754pnd2mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
